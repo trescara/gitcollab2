@@ -1,0 +1,5 @@
+p {
+  grid-column: 1 / span 2;
+  margin-left: 1rem;
+  color: pink;
+}
